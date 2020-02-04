@@ -1,6 +1,5 @@
 import React from 'react';
 import Thumbnail from './Thumbnail';
-import './App.css';
  
 function Portfolio(props) {
   return (

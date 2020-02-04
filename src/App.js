@@ -1,13 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import { BrowserRouter, Route, Link } from 'react-router-dom';
-import About from './About'; 
-import Experience from './Experience'; 
-import Skills from './Skills';
-import Portfolio from './Portfolio';
-import Testimonials from './Testimonials';
-import Contact from './Contact'; 
-import './App.css';
+import About from './components/About'; 
+import Experience from './components/Experience'; 
+import Skills from './components/Skills';
+import Portfolio from './components/Portfolio';
+import Testimonials from './components/Testimonials';
+import Contact from './components/Contact'; 
+import './styles/App.css';
  
 function App() {
   return (
