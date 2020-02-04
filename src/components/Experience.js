@@ -25,7 +25,6 @@ function Experience(props) {
       <h2>Employment</h2>
       <p>
         <b>Full Stack Developer</b><br />
-        <b>Minor in Graphic Design</b><br />
         <span>Biz Technology Solutions. 2016 - 2017</span>
       </p>
 

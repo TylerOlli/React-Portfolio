@@ -22,7 +22,7 @@ function App() {
             <Link to="/experience" className="item">Experience</Link>
             <Link to="/skills" className="item">Skills</Link>
             <Link to="/portfolio" className="item">Portfolio</Link>
-            <Link to="/testimonials" className="item">Testomonials</Link>
+            <Link to="/testimonials" className="item">Testimonials</Link>
             <Link to="/contact" className="item">Contact</Link>
 
             {/* Set up the Router */}
