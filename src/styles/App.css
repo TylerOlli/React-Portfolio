@@ -79,3 +79,21 @@
   text-align: left;
   display: flex;
 }
+
+/* Contact */
+
+.contactContainer {
+  width: 500px;
+  margin: auto;
+}
+
+.contactItem {
+  width: 25%;
+  display: inline-flex;
+  font-size: 18px;
+}
+
+.fontAwesomeTop {
+  font-size: 36px;
+  display: b;
+}
